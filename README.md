@@ -1,17 +1,13 @@
 # Experiment A
 
 
-https://github.com/HONGcalmJIN/MSH-MCCT-assets/assets/52435441/b6327d2a-a5fc-4b0b-9d10-64a371ae9aa8
+https://github.com/HONGcalmJIN/MSH-MCCT-assets/assets/52435441/cac331c6-de3f-4752-9f5d-4a7e7f11bbfb
 
 
 # Experiment B
 
-https://github.com/HONGcalmJIN/MSH-MCCT-assets/assets/52435441/9e193cc4-6429-4374-94e7-474d03b50770
 
-##without video 
-
-
-cover
+##without video cover
 # Experiment A
 
 https://github.com/HONGcalmJIN/MSH-MCCT-assets/assets/52435441/b6327d2a-a5fc-4b0b-9d10-64a371ae9aa8
